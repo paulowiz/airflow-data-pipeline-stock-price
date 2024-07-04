@@ -1,4 +1,7 @@
-Overview
+
+<img alt="Pipeline" src="https://github.com/paulowiz/airflow-data-pipeline-stock-price/assets/18649504/d6c92beb-6c51-4041-a3b5-6f0dccbc10bb">
+
+Overview!
 ========
 
 Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
